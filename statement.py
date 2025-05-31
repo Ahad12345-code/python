@@ -1,0 +1,5 @@
+print("hello welcome to visual studio code")
+print(6)
+print("iam learning coding \n iam new to coding" )
+print("my age is 11", 5)
+print("iam going to be 12 years old this year",end="*")
